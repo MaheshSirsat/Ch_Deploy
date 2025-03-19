@@ -8,7 +8,7 @@
     "sapui5"
   ],
   "main": "webapp/index.html",
-  "homepage": "https://MaheshSirsat.github.io/Ch_Deploy/myapp",
+  "homepage": "https://MaheshSirsat.github.io/Ch_Deploy/",
   "dependencies": {},
   "devDependencies": {
     "@ui5/cli": "^3.0.0",
