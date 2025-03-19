@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","sap/ui/model/json/JSONModel"],function(e,i){"use strict";return e.extend("myApp.controller.App",{onInit:function(){var e={items:[{name:"Item 1",description:"Description 1"},{name:"Item 2",description:"Description 2"}]};var n=new i(e);this.getView().setModel(n)}})});
+//# sourceMappingURL=App.controller.js.map
